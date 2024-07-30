@@ -1,0 +1,101 @@
+ID,Brand,Model,Year,Price,Color,Seats,Condition
+1,Toyota,Corolla,2024,20000,White,5,New
+2,Honda,Civic,2019,18000,Black,5,Used
+3,Ford,Mustang,2024,35000,Red,4,New
+4,BMW,X5,2024,45000,Blue,5,New
+5,Audi,A4,2018,25000,Gray,5,Used
+6,Chevrolet,Malibu,2024,22000,Black,5,New
+7,Tesla,Model S,2024,70000,White,5,New
+8,Nissan,Altima,2020,20000,Blue,5,Used
+9,Hyundai,Elantra,2021,19000,Red,5,Used
+10,Kia,Optima,2024,21000,Gray,5,New
+11,Subaru,Impreza,2024,23000,Black,5,New
+12,Mazda,CX-5,2021,26000,White,5,Used
+13,Volkswagen,Jetta,2020,20000,Red,5,Used
+14,Mercedes,C-Class,2024,42000,Black,5,New
+15,Lexus,ES,2024,40000,Blue,5,New
+16,Volvo,S60,2019,30000,Gray,5,Used
+17,Porsche,911,2024,90000,Red,2,New
+18,Jaguar,XE,2018,35000,Black,5,Used
+19,Land Rover,Range Rover,2024,95000,White,5,New
+20,Mini,Cooper,2019,20000,Blue,4,Used
+21,Fiat,500,2024,17000,Red,4,New
+22,Alfa Romeo,Giulia,2021,38000,Gray,5,Used
+23,Acura,TLX,2024,37000,White,5,New
+24,Cadillac,CTS,2018,45000,Black,5,Used
+25,Chrysler,300,2024,32000,Blue,5,New
+26,Dodge,Charger,2020,34000,Red,5,Used
+27,Infiniti,Q50,2019,38000,Gray,5,Used
+28,Genesis,G70,2024,41000,White,5,New
+29,Lincoln,MKZ,2021,36000,Black,5,Used
+30,Mitsubishi,Outlander,2024,27000,Blue,7,New
+31,Ford,Mustang GT,2024,50000,Red,2,New
+32,Mini,Cooper S,2018,20000,Gray,4,Used
+33,Volkswagen,GTI,2021,32000,White,5,Used
+34,Honda,Accord,2022,20000,Black,4,Used
+35,Audi,Q8,2023,80000,Blue,7,Used
+36,Jeep,Compass,2024,35000,Red,5,New
+37,Subaru,Outback,2024,37000,Gray,5,New
+38,Toyota,Camry,2021,30000,White,5,Used
+39,Honda,Accord,2024,32000,Black,5,New
+40,Ford,F150,2020,45000,Blue,3,Used
+41,BMW,3 Series,2018,35000,Red,5,Used
+42,Audi,Q5,2021,42000,Gray,5,Used
+43,Chevrolet,Equinox,2024,33000,White,5,New
+44,Tesla,Model 3,2019,45000,Black,5,Used
+45,Nissan,Maxima,2024,35000,Blue,5,New
+46,Hyundai,Santa Fe,2020,32000,Red,5,Used
+47,Kia,Sorento,2024,37000,Gray,7,New
+48,Honda,S2000,2019,19000,White,2,Used
+49,Volkswagen,Passat,2021,30000,Black,5,Used
+50,Mercedes,E-Class,2024,55000,Blue,5,New
+51,Lexus,LS,2024,60000,Red,5,New
+52,Volvo,XC60,2020,45000,Gray,5,Used
+53,Porsche,Cayenne,2021,80000,White,5,Used
+54,Jaguar,F-Pace,2019,70000,Black,5,Used
+55,Land Rover,Defender,2024,90000,Blue,5,New
+56,Mini,Countryman,2024,35000,Red,5,New
+57,Fiat,500L,2021,18000,Gray,5,Used
+58,Alfa Romeo,Stelvio,2020,40000,White,5,Used
+59,Acura,RDX,2024,45000,Black,5,New
+60,Cadillac,Escalade,2018,85000,Blue,6,Used
+61,Chrysler,Pacifica,2020,40000,Red,7,Used
+62,Dodge,Durango,2021,50000,Gray,7,Used
+63,Infiniti,QX60,2019,55000,White,7,Used
+64,Genesis,G80,2024,50000,Black,5,New
+65,Lincoln,Aviator,2024,65000,Blue,7,New
+66,Mitsubishi,Eclipse Cross,2021,30000,Red,5,Used
+67,Infiniti,QX80,2020,65000,Gray,7,Used
+68,Volkswagen,Atlas SE,2023,40000,White,5,Used
+69,Lexus,GX,2024,65000,Black,7,New
+70,Toyota ,Camry,2024,35000,Blue,5,New
+71,Lexus,RC,2020,20000,Red,4,Used
+72,Jeep,Wrangler,2021,45000,Gray,5,Used
+73,Subaru,Forester,2024,40000,White,5,New
+74,Toyota,Highlander,2024,50000,Black,7,New
+75,Honda,Pilot,2019,35000,Blue,7,Used
+76,Ford,Edge,2020,40000,Red,5,Used
+77,BMW,X3,2024,50000,Gray,5,New
+78,Audi,R8,2021,160000,White,2,Used
+79,Chevrolet,Traverse,2024,45000,Black,7,New
+80,Tesla,Model X,2019,90000,Blue,6,Used
+81,Nissan,Rogue,2024,35000,Red,5,New
+82,Hyundai,Palisade,2020,45000,Gray,7,Used
+83,Kia,Telluride,2024,50000,White,7,New
+84,Mazda,CX-9,2019,40000,Black,7,Used
+85,Volkswagen,Atlas,2021,45000,Blue,7,Used
+86,Mercedes,GLS,2024,85000,Red,7,New
+87,Lexus,RX,2024,60000,Gray,7,New
+88,Volvo,XC90,2020,70000,White,7,Used
+89,Porsche,Panamera,2021,120000,Black,5,Used
+90,Jaguar,F-Type,2019,70000,Blue,2,Used
+91,Land Rover,Discovery,2024,80000,Red,7,New
+92,Mini,Clubman,2024,35000,Gray,5,New
+93,Fiat,500X,2021,30000,White,5,New
+94,Alfa Romeo,Giulietta,2020,35000,Black,5,Used
+95,Acura,MDX,2024,60000,Blue,7,New
+96,Cadillac,XT5,2018,45000,Red,5,Used
+97,Chrysler,200,2020,30000,Gray,5,Used
+98,Dodge,Journey,2021,35000,White,7,Used
+99,Infiniti,QX80,2019,70000,Black,7,Used
+100,Genesis,G90,2024,75000,Blue,5,New
