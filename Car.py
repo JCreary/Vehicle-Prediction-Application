@@ -1,7 +1,4 @@
 # Author: Jamal Creary
-# Student ID: 000993077
-# Title: C964 Project Task 2
-# Submission 1: 07/26/2024
 
 import csv
 import sqlite3
